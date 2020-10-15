@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Mark-Hetherington/loadcalc#readme",
   "devDependencies": {
-    "@babel/core": "^7.8.7",
+    "@babel/core": "^7.12.1",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/preset-env": "^7.8.7",
